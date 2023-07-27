@@ -11,7 +11,7 @@ const Sdata = [
     title: "Araku Valley",
     // visit: "/knowm",
     btname: "Know More",
-    content:"Araku Valley: Serene hill station in Vishkapatnam, India known for its lush greenery, coffee plantations, and breathtaking landscapes."
+    content:"Araku Valley: Serene hill station in Vishkapatnam (also known as Vizag), India known for its lush greenery, coffee plantations, and breathtaking landscapes."
   },
   {
     imgsrc: app,
